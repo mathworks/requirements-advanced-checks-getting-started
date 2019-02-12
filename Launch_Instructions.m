@@ -1,4 +1,4 @@
 cleanup_workspace
-%msgbox('Please maximize the Editor window')
-%edit Instructions_Main.mlx
-Launch_Instructions_Web
+open_Launch_Instructions_gif
+edit Instructions_Main.mlx
+disp('Maximize Instructions_Main.mlx window in Live Editor')
