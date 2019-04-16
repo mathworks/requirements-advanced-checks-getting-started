@@ -1,3 +1,4 @@
+%Copyright 2019 The MathWorks, Inc.
 %% USING MPT.PARAMETERS TO SET UP MY TUNABLE VARIABLES
 CruiseOnOff = mpt.Signal;
 CruiseOnOff.DataType = 'boolean';

@@ -1,7 +1,7 @@
 function sl_customization(cm)
 % SL_CUSTOMIZATION - Model Advisor customization demonstration.
 
-% Copyright 2005 The MathWorks, Inc.
+% Copyright 2019 The MathWorks, Inc.
 
 % register custom checks 
 cm.addModelAdvisorCheckFcn(@defineModelAdvisorChecks);
