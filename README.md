@@ -6,6 +6,8 @@
 
 *Copyright 2022 The MathWorks, Inc.*
 
+To get started with the example, open the MATLAB Project file *Managing_Requirements_Advanced_Checks.prj*
+
 You are an engineer at Farnswerth Automotive and are on a secret project team developing a single-occupant Level 5 autonomous vehicle, which many call **The Pod**.
 
 Your team, which designs the control system software, is about to complete the "desktop simulation" phase of the project before moving on to the much-anticipated "hardware in the loop" testing phase in the brand new state-of-the-art testing facility hidden away from the rest of the company. Everyone is excited!
