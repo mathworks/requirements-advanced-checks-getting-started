@@ -1,10 +1,10 @@
-# Overview and Motivation
+# Managing Requirements and Advanced Model Checks Workflow Example
+
+## Overview
 
 *This example uses a fictional scenario based on a typical engineer's experience for the purpose of demonstration. Any use of names of actual products or firms is entirely coincidental and unintentional. The contents of this example do not constitute a real design.*
 
 *This example was created using MATLAB® R2022a.*
-
-*Copyright 2022 The MathWorks, Inc.*
 
 To get started with the example, open the MATLAB Project file *Managing_Requirements_Advanced_Checks.prj*
 
@@ -31,3 +31,5 @@ We will be using the following MathWorks products:
 * [Simulink® Design Verifier™](https://www.mathworks.com/products/simulink-design-verifier.html) to ensure the model is free from run-time errors
  
 This example assumes that the user has a basic knowledge of Simulink® and Stateflow®.
+
+*Copyright 2022 The MathWorks, Inc.*
